@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=MP1 Old Footprint=FP-C247-025-1AE-MFG New Footprint=FP-R2A-CT4-38E-MFG
+Change Component Comment : Designator=MP1 Old Comment=5W New Comment=R2A-CT4-38E
+Change Managed Component Library Link : Designator=MP1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=690E21DF-997F-4786-BD2C-3A073EDF0D97 New ItemGUID=CF068BFB-9D15-4350-896C-4528E8FE51C9 Old RevisionGUID=BBD6FD1E-ADA5-4179-BEB9-18BE8D1745FB New RevisionGUID=D60B34D2-E268-4072-9DBB-60A87FFF69C0
+Change component parameters: Designator = "MP1" ("MP1"); Footprint = "FP-C247-025-1AE-MFG"; UniqueID = "\AMNBDKQU" ("\AMNBDKQU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-247"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "22mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height Off Base"; Value = "0.87inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.5inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Clip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Natural Thermal Resistance"; Value = "8.6°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Cooled"; Value = "TO-247"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "R2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "1°C/W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "6.4oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.38inch"; VariantName = "[No Variations]"
